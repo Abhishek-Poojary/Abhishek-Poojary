@@ -1,9 +1,8 @@
 ### 👋  Hi, I'm Abhishek Poojary
 
 
-My Journey to code started from the 11th standard as we had Computer Science as a Subject. Well, I didn’t like to code at the start but as the time passed I’ll start to realize how intriguing, complex, and fun it is to code. 
-<br>I love to work on projects that challenge my critical thinking.
-Nowadays I am improving my problem-solving skills. I have experience working on a lot of projects based on different domains.<br>
+My Journey to code started from the 11th standard. I love how intriguing, complex, and fun it is to code.
+I like to work on projects that challenge my critical thinking and experience. I am improving my problem-solving skills. I have experience working on a lot of projects based on different technologies.
 I enjoy meeting new people and hearing new perspectives.
 
 ##  Skills
