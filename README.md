@@ -22,8 +22,12 @@ I enjoy meeting new people and hearing new perspectives.
 <a href="https://github.com/Abhishek-Poojary/SaharaEcommerce.git">
  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Poojary&repo=SaharaEcommerce&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
+<br/>
+<a href="https://github.com/Abhishek-Poojary/onewordaday.git">
+ <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Abhishek-Poojary&repo=onewordaday&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Poojary&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-Poojary&layout=compact)](https://github.com/Abhishek-Poojary/github-readme-stats)
 ## Connect with me 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/abhishek-poojary-a46bb5189/)
 
