@@ -1,27 +1,65 @@
-# Hi, I'm Abhishek 👋
+# 👋 Hi, I'm Abhishek
 
-## 👨‍💻 About Me
-Software Engineer with **4.10 years of experience** building scalable, user-focused web applications.  
-I specialize in **Frontend Engineering** with strong expertise in React and TypeScript, and have hands-on experience integrating **LLM-powered features**.  
-I focus on writing clean, maintainable code and delivering high-quality user experiences.
+A passionate **Frontend Engineer** with **4.10 years of experience**, focused on building high-quality, scalable, and user-centric web applications.
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 About Me
 
-### Frontend
-- **React.js** • TypeScript • JavaScript  
-- HTML5 • CSS3 • TailwindCSS  
-
-### Backend / Others
-- Node.js • Express.js  
-- MongoDB  
-- Git • GitHub • REST APIs  
+* Strong expertise in **React.js**, **TypeScript**, **JavaScript**, **Redux**, **TanStack Query**, **TanStack Table**, **SASS**, **Tailwind CSS**, **Shadcn**, **HTML5**, and **CSS3/4**.
+* Backend working knowledge with **Node.js** and **Express**.
+* Experienced in designing responsive UI, migrating complex modules, writing unit tests, and improving overall frontend architecture.
+* Enjoy breaking down complex problems, building smooth user experiences, and continuously improving system performance.
+* Currently exploring deeper aspects of performance optimization, testing, and scalable frontend design.
 
 ---
 
-## 🌐 Social Links
-- **LinkedIn:** https://www.linkedin.com/in/abhishek-p-7a0a0321a/  
-- **GitHub:** https://github.com/abhishekp135  
+## 💼 Professional Highlights
 
+* Migrated critical production modules by deeply analyzing existing implementations and ensuring clear documentation.
+* Developed responsive web designs and custom UI components used across production features.
+* Implemented test cases to identify bugs early and contribute to UI and performance enhancements.
+* Worked on products involving invoicing, bookkeeping, accounting dashboards, and other business workflow tools.
 
+---
+
+## 🛠 Tech Stack
+
+### **Frontend**
+
+* React.js, TypeScript, JavaScript
+* Redux, TanStack Query (React Query), TanStack Table
+* Tailwind CSS, SASS, Shadcn UI
+* HTML5, CSS3/4
+
+### **Backend**
+
+* Node.js, Express
+
+### **Tools & Others**
+
+* Git, GitHub, Jest, Postman
+* Responsive UI, Unit Testing, REST APIs
+
+---
+
+## 📚 What I'm Learning Now
+
+* Advanced UI architecture patterns
+* Improving test coverage and mocking strategies
+* Performance tuning in large-scale React apps
+
+---
+
+## 🌱 Personal Growth & Routine
+
+Beyond tech, I’m disciplined about fitness — practicing **handstand holds**, **frog to handstand progressions**, and a structured weekly workout routine.
+
+---
+
+## 📫 Connect With Me
+
+* **LinkedIn:** *Add your link here*
+* **GitHub:** *This profile*
+
+If you're interested in my work, feel free to explore the repos or reach out. Always open to good conversations and new opportunities!
