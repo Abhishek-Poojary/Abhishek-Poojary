@@ -47,7 +47,7 @@ A passionate **Frontend Engineer** with **4.10 years of experience**, focused on
 
 ## 🌱 Personal Growth & Routine
 
-Beyond tech, I’m disciplined about fitness — practicing **handstand holds**, **frog to handstand progressions**, and a structured weekly workout routine.
+Beyond tech, I like to maintain a healthy routine — staying active with regular workouts, practicing handstands for fun, and spending time reading books.
 
 
 ## 📫 Connect With Me
