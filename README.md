@@ -2,7 +2,6 @@
 
 A passionate **Frontend Engineer** with **4.10 years of experience**, focused on building high-quality, scalable, and user-centric web applications.
 
-<hr />
 
 ## 🚀 About Me
 
@@ -12,7 +11,6 @@ A passionate **Frontend Engineer** with **4.10 years of experience**, focused on
 * Enjoy breaking down complex problems, building smooth user experiences, and continuously improving system performance.
 * Currently exploring deeper aspects of performance optimization, testing, and scalable frontend design.
 
-<hr />
 
 ## 💼 Professional Highlights
 
@@ -20,8 +18,6 @@ A passionate **Frontend Engineer** with **4.10 years of experience**, focused on
 * Developed responsive web designs and custom UI components used across production features.
 * Implemented test cases to identify bugs early and contribute to UI and performance enhancements.
 * Worked on products involving invoicing, bookkeeping, accounting dashboards, and other business workflow tools.
-
-<hr />
 
 ## 🛠 Tech Stack
 
@@ -41,7 +37,6 @@ A passionate **Frontend Engineer** with **4.10 years of experience**, focused on
 * Git, GitHub, Jest, Postman
 * Responsive UI, Unit Testing, REST APIs
 
-<hr />
 
 ## 📚 What I'm Learning Now
 
@@ -49,17 +44,14 @@ A passionate **Frontend Engineer** with **4.10 years of experience**, focused on
 * Improving test coverage and mocking strategies
 * Performance tuning in large-scale React apps
 
-<hr />
 
 ## 🌱 Personal Growth & Routine
 
 Beyond tech, I’m disciplined about fitness — practicing **handstand holds**, **frog to handstand progressions**, and a structured weekly workout routine.
 
-<hr />
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** *Add your link here*
-* **GitHub:** *This profile*
+* **LinkedIn:** [Linkedin](https://www.linkedin.com/in/abhishek-poojary-a46bb5189/)
 
 If you're interested in my work, feel free to explore the repos or reach out. Always open to good conversations and new opportunities!
