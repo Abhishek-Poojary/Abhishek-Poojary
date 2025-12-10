@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abhishek
 
-A passionate **Frontend Engineer** with **4.10 years of experience**, focused on building high-quality, scalable, and user-centric web applications.
+A passionate **Frontend Engineer** with **5 years of experience**, focused on building high-quality, scalable, and user-centric web applications.
 
 
 ## 🚀 About Me
